@@ -40,7 +40,7 @@ Scripts and payloads used during the C2C 2026 CTF competition.
 | Blockchain | TGE                     | Check-After-Effect Bug                 |
 | Blockchain | Nexus                   | Vault Inflation Attack                 |
 | Blockchain | Convergence             | Constraint Mismatch                    |
-
+Note: Welcome challenge is not included here as the flag appears directly on the index page — no script needed.
 ## Requirements
 
 ```bash
@@ -59,3 +59,4 @@ ngrok http 9000
 Scripts were written for educational purposes during a CTF competition.
 AI tools (Claude Sonnet 4.5, ChatGPT) were used to assist with script
 generation and code analysis.
+
